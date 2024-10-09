@@ -1,0 +1,22 @@
+{
+    "skk-dict": {
+        "cargoLocks": null,
+        "date": "2024-08-28",
+        "extract": null,
+        "name": "skk-dict",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "banjun",
+            "repo": "skk-jisyo-imasparql",
+            "rev": "fd3cfbd84a846b773f4587be636e1a29f800ef8a",
+            "sha256": "sha256-0a7Po9LKzrKYfg0kcrq5QfxJiIw/RDr/3E96We7J5NU=",
+            "type": "github"
+        },
+        "version": "fd3cfbd84a846b773f4587be636e1a29f800ef8a"
+    }
+}

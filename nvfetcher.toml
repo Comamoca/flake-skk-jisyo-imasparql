@@ -1,0 +1,3 @@
+[skk-dict]
+src.git= "https://github.com/banjun/skk-jisyo-imasparql"
+fetch.github = "banjun/skk-jisyo-imasparql"
