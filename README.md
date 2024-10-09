@@ -26,13 +26,13 @@ Nix flake support to SKK dictionaries for idolmaster.
 
 ```nix
 # for all dictionaries.
-".skk/SKK-JISYO.L".source = "${flake-skk-jisyo-imasparql}/share/SKK-JISYO.im@sparql.all.utf8"; 
+".skk/SKK-JISYO.im@sparql.all.utf8".source = "${flake-skk-jisyo-imasparql}/share/SKK-JISYO.im@sparql.all.utf8"; 
 
 # idols name only.
-".skk/SKK-JISYO.L".source = "${flake-skk-jisyo-imasparql}/share/SKK-JISYO.im@sparql.idols.utf8"; 
+".skk/SKK-JISYO.im@sparql.idols.utf8".source = "${flake-skk-jisyo-imasparql}/share/SKK-JISYO.im@sparql.idols.utf8";
 
 # units name only.
-".skk/SKK-JISYO.L".source = "${flake-skk-jisyo-imasparql}/share/SKK-JISYO.im@sparql.units.utf8"; 
+".skk/SKK-JISYO.im@sparql.units.utf8".source = "${flake-skk-jisyo-imasparql}/share/SKK-JISYO.im@sparql.units.utf8"; 
 ```
 
 ## ⬇️  Install
