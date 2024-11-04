@@ -13,7 +13,7 @@
 Nix flake support to SKK dictionaries for idolmaster.
 
 > [!NOTE]
-> This repository is archived.
+> This repository is archived.  
 > Package was moved to [nur-packages](https://github.com/Comamoca/nur-packages)
 
 <br>
