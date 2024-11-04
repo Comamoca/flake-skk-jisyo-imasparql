@@ -12,19 +12,15 @@
 
 Nix flake support to SKK dictionaries for idolmaster.
 
+<br>
+<br>
+
+
+</div>
+
 > [!NOTE]
 > This repository is archived.  
 > Package was moved to [nur-packages](https://github.com/Comamoca/nur-packages)
-
-<br>
-<br>
-
-
-</div>
-
-<div align="center">
-
-</div>
 
 ## 🚀 How to use
 
